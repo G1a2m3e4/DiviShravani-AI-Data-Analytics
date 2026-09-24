@@ -1,10 +1,10 @@
 # AI Data Analytics Project
 
-## Project Description
-This project analyzes e-commerce transaction data using Python and exploratory data analysis techniques. The project identifies revenue trends, category performance, customer segments, regional performance, and product profitability.
+## Author
+Divi Shravani
 
-## Objective
-To analyze e-commerce data and generate meaningful business observations, insights, hypotheses, and recommendations.
+## Description
+This project analyzes an e-commerce dataset using Python, Pandas, and Matplotlib. The analysis focuses on monthly revenue, category performance, customer segments, regional revenue, and product profitability.
 
 ## Technologies Used
 - Python
@@ -13,29 +13,24 @@ To analyze e-commerce data and generate meaningful business observations, insigh
 - Google Colab
 - Microsoft Excel
 
-## Dataset
-E-commerce transaction dataset used for the internship project.
+## Files Included
+- DiviShravani_AI_Data_Analytics.ipynb
+- DiviShravani_ProjectReport.docx
+- requirements.txt
+- README.md
 
-## Analysis Performed
-1. Monthly Revenue Analysis
-2. Revenue by Category
-3. Customer Segment Analysis
-4. Regional Revenue Analysis
-5. Top 10 Products by Profit
-
-## Project Outputs
-- 5 Visualizations
-- 5 Observations
-- 5 Insights
-- 3 Hypotheses
-- 3 Recommendations
+## Key Analysis
+- Monthly Revenue Analysis
+- Revenue by Category
+- Customer Segment Analysis
+- Regional Revenue Analysis
+- Top 10 Products by Profit
 
 ## How to Run
-1. Open the Jupyter Notebook or Google Colab notebook.
+1. Open the notebook in Google Colab.
 2. Upload the dataset.
-3. Run the Python cells from top to bottom.
-4. View the generated charts and analysis results.
+3. Run all cells.
+4. View the charts and analysis.
 
-## Author
-DIVI SHRAVANI
-B.Tech – ECE
+## Internship
+AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 | BharatCares
