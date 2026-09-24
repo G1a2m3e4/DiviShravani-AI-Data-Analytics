@@ -37,5 +37,5 @@ E-commerce transaction dataset used for the internship project.
 4. View the generated charts and analysis results.
 
 ## Author
-Dommata Raviteja
+DIVI SHRAVANI
 B.Tech – ECE
